@@ -52,9 +52,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tugay72&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=My%20GitHub%20Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tugay72&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&rank_icon=github" height="150" />
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tugay72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Tugay72/Tugay72/output/snake.svg" alt="Snake animation" />
