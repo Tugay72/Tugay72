@@ -53,9 +53,5 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tugay72&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&rank_icon=github" height="150" />
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tugay72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3MjAxMjMsIm5iZiI6MTc0MTcxOTgyMywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDE5MDM0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlOTk3MDFhN2ZhZDI5NGMwNjRhNDA1OTg1ZTcwNDM1MGE4MDRiM2NmYmJjZWIxMDAyZjU2MDQ0ZjViODE2ZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5k9rWRwd-9mEU38yXe1f5bZy-e_Hw69wHIJlbdaocpU" height="150">
 </div>
