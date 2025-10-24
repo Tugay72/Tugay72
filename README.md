@@ -1,7 +1,7 @@
 
 <h1 align='center'>👋 Hey there, I'm Tugay</h1>
 <h3 align='center'>🚀 Full-Stack Developer | Tech Enthusiast </h3>
-<p align='center'>Welcome to my GitHub! I’m passionate about building web applications, solving problems with code, and contributing to the open-source community. I specialize in creating full-stack applications using modern technologies and frameworks. I enjoy working with everything from frontend interfaces to backend services, ensuring seamless user experiences.</p>
+<p align='center'>Ladies, gentleman & developers WELCOME! I’m passionate about building web applications, solving problems with code, and contributing to the open-source community. I specialize in creating full-stack applications using modern technologies and frameworks. I enjoy working with everything from frontend interfaces to backend services, ensuring seamless user experiences.</p>
 
 
 <div align="center">
