@@ -57,5 +57,5 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tugay72&theme=dark&hide_border=true" height="150" />
   <img src="https://github-readme-stats-pearl-gamma-79.vercel.app/api/top-langs?username=Tugay72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  /> 
-<img src="https://github-readme-stats-pearl-gamma-79.vercel.app/api?username=Tugay72&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats-pearl-gamma-79.vercel.app/api?username=Tugay72&show_icons=true&theme=codeSTACKr&hide_border=true" />
 </div>
